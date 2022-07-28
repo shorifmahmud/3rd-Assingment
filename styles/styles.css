@@ -1,3 +1,7 @@
+.myimage {
+    filter: brightness(50%);
+}
+
 .edu-bg-info {
     background-color: #289BDE;
 }
